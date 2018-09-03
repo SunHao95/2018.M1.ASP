@@ -9,7 +9,7 @@
 * ....
 * __NO CLASS__ on 10.16 Tues
 * ...
-* __04__ (__09.12 Wed__ instead of 10.16 Tues): Python crash course
+* __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course
 * __03__ (09.11 Tues): TBA
 * __02__ (09.07 Fri): Scientific computing, Monte Carlo method, Random number generation ([Slides](files/MCmethod.pdf), [Py demo](py/MC_Demo.ipynb)). 
 * __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
@@ -51,7 +51,7 @@ Other guidelines for the course project:
 * Office: PHBS Building, Room 755
 * Phone: 86-755-2603-0568
 * Email: jaehyuk@phbs.pku.edu.cn
-* Office Hour: Tues & Fri 10:30 – 11:30PM or by appointment
+* Office Hour: Tues & Fri 10:30 – 11:30 AM or by appointment
 
 ## Teaching Assistance: Yeda Du (都业达)
 * Email: 1601213511@sz.pku.edu.cn
@@ -76,7 +76,7 @@ processes and how they can be computed using analytics or computer simulations.
 
 ## Assessment/Grading Details
 Attendance 20%, Mid-term Exam 30%, Assignments 20%, Course Project 30%
-* Mid-term exam will be taken on 10.23 Tues in the 7th week. There will be no final exam.
-* Attendance will be checked randomly. The score is calculated as 20 – 2`x`(#of absence)
-* Leave request should be made 24 hours before except for emergency
-* Job interview/internship cannot be a valid reason for leave
+* __Midterm exam__: 10.23 Tues. Closed-book. No final exam.
+* __Course project__: Presentation (11.09 Fri). Group up to 2 people.
+* __Attendance__: checked randomly. The score is calculated as 20 – 2x(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
+* __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and C+ or below > 10%__.
