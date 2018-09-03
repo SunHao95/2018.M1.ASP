@@ -16,14 +16,10 @@
 * __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
 
 ## Homeworks:
-### __Set 4__ 
-
-### __Set 3__ 
-
-### __Set 2__ 
-
-### __Set 1__ 
-
+* ### __Set 1__ [Due by 09.11 Tues]
+  * Register on Github.com and send your ID to TA via email. Use your __full name__ in your profile. Accept invitation to the `2018.ASP` team from TA. Install [Github Desktop](https://desktop.github.com/) (available on `Machine Learning` [CMS](http://cms.phbs.pku.edu.cn/claroline/course/index.php?cid=FN570)). 
+  * Install [Anaconda](https://www.anaconda.com/download/) Python distribution (__3.X version__, 2.X version). Anaconda distribution is core Python + useful scientific computation libraries (e.g., numpy, scipy, pandas) + package management system (pip or conda)
+  * Send the screenshot of both softwares installed to TA.
 
 ## Course Project:
 
