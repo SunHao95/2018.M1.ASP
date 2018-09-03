@@ -76,7 +76,7 @@ processes and how they can be computed using analytics or computer simulations.
 
 ## Assessment/Grading Details
 Attendance 20%, Mid-term Exam 30%, Assignments 20%, Course Project 30%
-* __Midterm exam__: 10.23 Tues. Closed-book. No final exam.
+* __Midterm exam__: 10.23 Tues. Open-book exam without computer/phone/calculator use. No final exam.
 * __Course project__: Presentation (11.09 Fri). Group up to 2 people.
-* __Attendance__: checked randomly. The score is calculated as 20 – 2x(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
+* __Attendance__: Randomly checked. The score is calculated as 20 – 2`x`(#of absence). Leave request should be made 24 hours before with supporting documents, except for emergency. Job interview/internship cannot be a valid reason for leave
 * __Grade__ in letters (e.g., A+, A-, ... ,D+, D, F). __A- or above < 30% and C+ or below > 10%__.
