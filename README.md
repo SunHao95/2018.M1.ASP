@@ -10,7 +10,7 @@
 * ....
 * __NO CLASS__ on 10.16 Tues
 * ...
-* __04__ (__09.12 Wed__ instead of __10.16 Tues__): Python crash course
+* __04__ (__09.12 Wed 10:30 AM__ instead of __10.16 Tues__): Python crash course
 * __03__ (09.11 Tues): TBA
 * __02__ (09.07 Fri): Scientific computing, Monte Carlo method, Random number generation ([Slides](files/MCmethod.pdf), [Py demo](py/MC_Demo.ipynb)). 
 * __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
