@@ -15,6 +15,15 @@
 * __02__ (09.07 Fri): Scientific computing, Monte Carlo method, Random number generation ([Slides](files/MCmethod.pdf), [Py demo](py/MC_Demo.ipynb)). 
 * __01__ (09.04 Tues): Course overview ([Syllabus](files/syllabus.pdf)), Probability Statistics Review ([Slides](files/Prob_Stat_Review.pdf))
 
+## Topics to Cover
+* Black-Scholes model (Py demo)
+* Normal(Bachelier) model ([Slides](files/Normal_Model.pdf))
+* Implied volatility ([Slides](files/ImpVol.pdf), [Py demo](py/BlackScholes_ImpliedVol.ipynb))
+* Spread/Basket options ([Slides](files/SpreadBasketOption.pdf))
+* SABR model ([Slides](files/SABRmodel.pdf))
+* Copula ([Slides](files/Copula.pdf), [Py demo](py/Demo_Copula.ipynb))
+* ...
+
 ## Homeworks:
 * ### __Set 1__ [Due by 09.11 Tues]
   * Register on Github.com and send your ID to TA via email. Use your __full name__ in your profile. Accept invitation to the [PHBS organization](https://github.com/orgs/PHBS/people) from TA. Install [Github Desktop](https://desktop.github.com/) (available on `Machine Learning` [CMS](http://cms.phbs.pku.edu.cn/claroline/course/index.php?cid=FN570)). 
